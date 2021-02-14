@@ -1,0 +1,7 @@
+body {
+    background:rgb(61, 13, 138)
+}
+
+h1, h2, h3, p, a, li, th, td {
+    color: pink;
+}
